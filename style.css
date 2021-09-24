@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    font-family: 'Orbitron', sans-serif;
+    background-color: white;
+    width: 95%;
+    padding: 1.2%;
+    border: 3px solid black;
+    border-radius: 20px;
+    color: black;
+}
+
+#start {
+    background-color: chartreuse;
+    border: 2px solid rgb(0, 0, 0);
+    color: black;
+    border-radius: 5px;
+    margin-top: 0.8%;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: bold;
+    font-size: large;
+    padding: -0.5%;
+}
+
+#stat {
+    font-family: 'Orbitron', sans-serif;
+    background-color: chartreuse;
+    padding: 0.5%;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+}
+
+#length {
+        font-family: 'Orbitron', sans-serif;
+        background-color: chartreuse;
+        padding: 0.5%;
+        width: 50%;
+        border: 2px solid black;
+        border-radius: 5px;
+        color: black;
+}
